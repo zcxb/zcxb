@@ -19,11 +19,11 @@ I'm a backend web developer, I'm recently focus on:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python   🕓 6h19m ████████████████▏              54.1%
-Markdown 🕓 3h35m █████████▏                     30.7%
-C#       🕓 1h14m ███▏                           10.7%
-YAML     🕓 18m   ▊                               2.6%
-TOML     🕓 9m    ▍                               1.4%
+Python   🕓 4h7m  ████████████▋                  42.3%
+Markdown 🕓 3h42m ███████████▍                   38.1%
+C#       🕓 1h14m ███▊                           12.8%
+YAML     🕓 24m   █▎                              4.2%
+TOML     🕓 9m    ▌                               1.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
