@@ -1,6 +1,6 @@
 # Hi, I'm zcxb. 🎣
 
-I'm a backend web developer, I'm recently focus on:
+I'm a backend web developer. I recently focus on:
 
   - 🎯 practicing algorithms and data structures on leetcode-cn
   - 📑 learning English the language
