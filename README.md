@@ -27,8 +27,8 @@ I'm a backend web developer. I recently focus on:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C#         🕓 25h29m ███████████████████████▎    86.3%
-Other      🕓 3h48m  ███▍                        12.9%
+C#         🕓 29h9m ███████████████████████▊     85.2%
+Other      🕓 4h49m ███▉                         14.1%
 Bash       🕓 5m                                  0.3%
 JSON       🕓 3m                                  0.2%
 Git Config 🕓 3m                                  0.2%
