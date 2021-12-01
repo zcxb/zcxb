@@ -25,5 +25,13 @@ I'm a backend web developer. I recently focus on:
 
 ## 🕗 Statistics
 <!-- waka-box start -->
-
+#### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
+```text
+C#     🕓 6h29m ███████████████████████████▌     86.0%
+Other  🕓 55m   ███▉                             12.2%
+JSON   🕓 6m    ▍                                 1.4%
+XML    🕓 1m                                      0.2%
+Docker 🕓 0s                                      0.1%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
