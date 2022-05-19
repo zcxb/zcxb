@@ -27,11 +27,11 @@ I'm a backend web developer. I recently focus on:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C#     🕓 8h51m █████████████████████████████▉   93.7%
-JSON   🕓 17m   █                                 3.1%
-Other  🕓 15m   ▉                                 2.8%
+C#     🕓 9h2m ██████████████████████████████▍   92.2%
+Other  🕓 32m  █▊                                 5.5%
+JSON   🕓 11m  ▌                                  1.9%
 Docker 🕓 1m                                      0.3%
-XML    🕓 0s                                      0.1%
+XML    🕓 1m                                      0.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
