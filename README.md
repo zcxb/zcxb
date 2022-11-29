@@ -27,8 +27,8 @@ I'm a backend web developer. I recently focus on:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TypeScript 🕓 19h21m ██████████████████▊         69.7%
-JavaScript 🕓 6h6m   █████▉                      22.0%
+TypeScript 🕓 19h20m ██████████████████▊         69.7%
+JavaScript 🕓 6h10m  ██████                      22.2%
 Vue.js     🕓 42m    ▋                            2.5%
 Other      🕓 40m    ▋                            2.5%
 JSON       🕓 28m    ▍                            1.7%
