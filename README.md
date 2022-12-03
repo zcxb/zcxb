@@ -27,11 +27,11 @@ I'm a backend web developer. I recently focus on:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92e0961e49368b572d86dc0ffd6bb5bd" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TypeScript 🕓 16h32m ███████████████████▌        72.4%
-JavaScript 🕓 4h47m  █████▋                      21.0%
-JSON       🕓 35m    ▋                            2.6%
-Other      🕓 28m    ▌                            2.1%
-XML        🕓 7m     ▏                            0.6%
+TypeScript 🕓 17h50m ██████████████████████▍     83.2%
+JavaScript 🕓 2h4m   ██▌                          9.7%
+Other      🕓 32m    ▋                            2.5%
+JSON       🕓 26m    ▌                            2.0%
+Vue.js     🕓 13m    ▎                            1.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
