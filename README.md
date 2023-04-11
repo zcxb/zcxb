@@ -31,7 +31,7 @@ TypeScript 🕓 14h58m ███████████████████
 JavaScript 🕓 1h46m  ██▊                         10.3%
 Other      🕓 20m    ▌                            1.9%
 Bash       🕓 9m     ▎                            0.9%
-JSON       🕓 6m     ▏                            0.7%
+JSON       🕓 6m     ▏                            0.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
